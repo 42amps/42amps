@@ -1,70 +1,34 @@
-# Aman R Khanchandani
+<div align="center">
 
-Applied AI + Product Engineer Intern building RAG systems, document intelligence tools, agent workflow infrastructure, and full-stack product systems.
+![Applied AI + Product Engineer](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111827,55:2563eb,100:14b8a6&text=Aman%20R%20Khanchandani&fontColor=ffffff&fontAlignY=38&desc=Applied%20AI%20%2B%20Product%20Engineer&descAlignY=58&animation=fadeIn)
 
-I build applied AI and product systems for messy information workflows: retrieval, document intelligence, agent workflow state, payout correctness, backend reliability, and full-stack product infrastructure.
+I build applied AI and product systems for messy information workflows: RAG, document intelligence, agent workflow state, payout correctness, and backend/product infrastructure.
 
-## Featured Work
+[Portfolio](https://github.com/42amps/portfolio) · [LinkedIn](https://www.linkedin.com/in/amankhanchandani/) · [Email](mailto:khanchandani.aman2605@gmail.com)
 
-### [Stateframe](https://github.com/42amps/stateframe)
+</div>
 
-File-first task-state ledger for long-horizon agent workflows, recovery, retries, and inspectable state transitions.
+## Building Now
 
-- Agent workflow state and handoff packets
-- CLI-first developer tooling
-- JSON Schema validation
-- File-first, inspectable state files
+- **Stateframe** - file-first state ledger for long-horizon agent workflows.
+- **PayRail** - payout correctness demo with idempotency, ledger accounting, row locks, and state transitions.
+- **AI Systems Notes** - technical writing on RAG, agents, document AI, retrieval, and backend correctness.
 
-### [PayRail - Real-Time Payout Engine](https://github.com/42amps/playto-pay-engine)
+## Featured Proof
 
-Payout-system correctness demo with append-only ledger accounting, idempotency keys, row-level locking, payout state transitions, and double-spend prevention.
+| Project | What it proves | Stack / Focus |
+| --- | --- | --- |
+| [Stateframe](https://github.com/42amps/stateframe) | Agent workflow state, handoff packets, inspectable task ledgers | TypeScript, CLI, JSON Schema, agents |
+| [PayRail](https://github.com/42amps/playto-pay-engine) | Backend correctness for payout flows and double-spend prevention | Django, PostgreSQL, React, Docker |
+| [AI Systems Notes](https://github.com/42amps/ai-systems-notes) | System-design thinking around applied AI and retrieval | RAG, document AI, evaluation, technical writing |
+| [Portfolio](https://github.com/42amps/portfolio) | Recruiter-facing project surface | React, TypeScript, Tailwind |
 
-- Django REST Framework + PostgreSQL
-- React + Vite merchant dashboard
-- Concurrency and duplicate-request prevention
-- Dockerized full-stack demo
+## I Work With
 
-### [AI Systems Notes](https://github.com/42amps/ai-systems-notes)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,django,postgres,supabase,docker,nodejs,tailwind,git,github" alt="Python, TypeScript, React, Next.js, Django, PostgreSQL, Supabase, Docker, Node.js, Tailwind, Git, GitHub" />
+</p>
 
-Technical notes on agent state, RAG systems, payout correctness, document AI, retrieval evaluation, and hybrid search.
+## Secondary / Archive
 
-- Agent state vs memory
-- Payout correctness
-- Vision-RAG and document retrieval
-- RAG evaluation and knowledge-graph retrieval
-
-### [Portfolio](https://github.com/42amps/portfolio)
-
-Recruiter-facing public project surface for applied AI and product engineering work.
-
-## Currently Building
-
-- Stateframe: agent workflow state and handoff layer.
-- PayRail: payout correctness demo.
-- AI Systems Notes: technical writing around RAG, agents, payouts, and retrieval.
-- Portfolio: public project surface.
-
-## Current Focus
-
-- RAG systems for document-heavy workflows.
-- Long-horizon agent state, handoffs, and recovery.
-- Backend correctness for product systems.
-- Full-stack tools with clear operational surfaces.
-
-## Tech Stack
-
-Python, TypeScript, React, Next.js, Django, PostgreSQL, Supabase, Docker, REST APIs, retrieval systems, LLM workflows, document AI, and agent tooling.
-
-## Older / Secondary Experiments
-
-Some older experiments and learning archives are public, but my main proof-of-work is Stateframe, PayRail, AI Systems Notes, and my portfolio.
-
-- [VRAG](https://github.com/42amps/VRAG) - exploratory Vision-RAG lab.
-- [bus-fleet](https://github.com/42amps/bus-fleet) - prototype fleet dashboard.
-- [Cybersec_Exp](https://github.com/42amps/Cybersec_Exp) - cybersecurity learning archive.
-
-## Contact
-
-- GitHub: [@42amps](https://github.com/42amps)
-- LinkedIn: [amankhanchandani](https://www.linkedin.com/in/amankhanchandani/)
-- Email: [khanchandani.aman2605@gmail.com](mailto:khanchandani.aman2605@gmail.com)
+VRAG, bus-fleet, and Cybersec_Exp are public learning/prototype repos. My main proof-of-work is Stateframe, PayRail, AI Systems Notes, and Portfolio.
