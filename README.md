@@ -4,7 +4,7 @@
 
 I build applied AI and product systems for messy information workflows: RAG, document intelligence, agent workflow state, payout correctness, and backend/product infrastructure.
 
-[Portfolio](https://github.com/42amps/portfolio) · [LinkedIn](https://www.linkedin.com/in/amankhanchandani/) · [Email](mailto:khanchandani.aman2605@gmail.com)
+[Portfolio](https://portfolio-42amps-projects.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/amankhanchandani/) · [Email](mailto:khanchandani.aman2605@gmail.com)
 
 </div>
 
