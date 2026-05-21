@@ -1,6 +1,6 @@
 <div align="center">
 
-![Applied AI + Product Engineer](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111827,55:2563eb,100:14b8a6&text=Aman%20R%20Khanchandani&fontColor=ffffff&fontAlignY=38&desc=Applied%20AI%20%2B%20Product%20Engineer&descAlignY=58&animation=fadeIn)
+![Aman R Khanchandani profile signal](assets/profile-signal.svg)
 
 I build applied AI and product systems for messy information workflows: RAG, document intelligence, agent workflow state, payout correctness, and backend/product infrastructure.
 
@@ -19,7 +19,7 @@ I build applied AI and product systems for messy information workflows: RAG, doc
 | Project | What it proves | Stack / Focus |
 | --- | --- | --- |
 | [Stateframe](https://github.com/42amps/stateframe) | Agent workflow state, handoff packets, inspectable task ledgers | TypeScript, CLI, JSON Schema, agents |
-| [PayRail](https://github.com/42amps/playto-pay-engine) | Backend correctness for payout flows and double-spend prevention | Django, PostgreSQL, React, Docker |
+| [PayRail](https://github.com/42amps/PayRail) | Backend correctness for payout flows and double-spend prevention | Django, PostgreSQL, React, Docker |
 | [AI Systems Notes](https://github.com/42amps/ai-systems-notes) | System-design thinking around applied AI and retrieval | RAG, document AI, evaluation, technical writing |
 | [Portfolio](https://github.com/42amps/portfolio) | Recruiter-facing project surface | React, TypeScript, Tailwind |
 

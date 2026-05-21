@@ -1,0 +1,73 @@
+<svg width="920" height="260" viewBox="0 0 920 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Aman R Khanchandani profile signal</title>
+  <desc id="desc">Minimal animated dark banner for Applied AI and Product Engineering work.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="920" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#09090B"/>
+      <stop offset="0.58" stop-color="#111114"/>
+      <stop offset="1" stop-color="#07090A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="154" y1="72" x2="778" y2="186" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="0.48" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(690 84) rotate(128) scale(310 210)">
+      <stop stop-color="#60A5FA" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-80" y="-80" width="1080" height="420" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+  </defs>
+  <rect width="920" height="260" rx="30" fill="url(#panel)"/>
+  <rect x="1" y="1" width="918" height="258" rx="29" stroke="white" stroke-opacity="0.10"/>
+  <circle cx="710" cy="96" r="126" fill="url(#glow)" filter="url(#soft)">
+    <animate attributeName="cx" values="660;740;660" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <g opacity="0.32">
+    <path d="M52 202H868" stroke="white" stroke-opacity="0.10"/>
+    <path d="M52 162H868" stroke="white" stroke-opacity="0.08"/>
+    <path d="M52 122H868" stroke="white" stroke-opacity="0.06"/>
+  </g>
+  <g transform="translate(58 54)">
+    <rect width="122" height="122" rx="24" fill="#17171A" stroke="white" stroke-opacity="0.12"/>
+    <path d="M28 80C42 49 79 42 94 67" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="61" cy="61" r="31" stroke="url(#accent)" stroke-opacity="0.58"/>
+    <circle cx="61" cy="61" r="5" fill="#22C55E">
+      <animate attributeName="r" values="5;8;5" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.55;1" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="61" y="112" text-anchor="middle" fill="#F5F5F5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="800">AK</text>
+  </g>
+  <text x="214" y="92" fill="#F5F5F5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="40" font-weight="850">Aman R Khanchandani</text>
+  <text x="214" y="132" fill="url(#accent)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="800">
+    AI Engineer - Product Systems - Backend Correctness - RAG
+    <animate attributeName="opacity" values="0.72;1;0.72" dur="4s" repeatCount="indefinite"/>
+  </text>
+  <text x="214" y="170" fill="#A1A1AA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="500">
+    RAG, document intelligence, payout correctness, and full-stack product infrastructure.
+  </text>
+  <g transform="translate(214 198)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="750">
+    <rect width="108" height="32" rx="16" fill="white" fill-opacity="0.07" stroke="white" stroke-opacity="0.12"/>
+    <text x="54" y="21" text-anchor="middle" fill="#F5F5F5">Stateframe</text>
+    <rect x="122" width="86" height="32" rx="16" fill="white" fill-opacity="0.07" stroke="white" stroke-opacity="0.12"/>
+    <text x="165" y="21" text-anchor="middle" fill="#F5F5F5">PayRail</text>
+    <rect x="222" width="142" height="32" rx="16" fill="white" fill-opacity="0.07" stroke="white" stroke-opacity="0.12"/>
+    <text x="293" y="21" text-anchor="middle" fill="#F5F5F5">AI Systems Notes</text>
+    <rect x="378" width="92" height="32" rx="16" fill="white" fill-opacity="0.07" stroke="white" stroke-opacity="0.12"/>
+    <text x="424" y="21" text-anchor="middle" fill="#F5F5F5">Portfolio</text>
+  </g>
+  <g transform="translate(792 52)">
+    <circle cx="0" cy="0" r="4" fill="#22C55E">
+      <animate attributeName="opacity" values="1;0.28;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="32" cy="34" r="3" fill="#60A5FA">
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-28" cy="66" r="3" fill="#A78BFA">
+      <animate attributeName="opacity" values="0.45;1;0.45" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M0 0L32 34L-28 66Z" stroke="url(#accent)" stroke-opacity="0.28"/>
+  </g>
+</svg>
