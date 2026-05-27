@@ -1,6 +1,6 @@
 <div align="center">
 
-![Aman R Khanchandani profile signal](assets/profile-signal.svg)
+![Hello]
 
 I build applied AI and product systems for messy information workflows: RAG, document intelligence, agent workflow state, payout correctness, and backend/product infrastructure.
 
