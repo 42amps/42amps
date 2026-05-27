@@ -1,6 +1,6 @@
 <div align="center">
 
-![Hello]
+Hi
 
 I build applied AI and product systems for messy information workflows: RAG, document intelligence, agent workflow state, payout correctness, and backend/product infrastructure.
 
